@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">Quiz App</string>
+
+    <!--Questions-->
+    <string name="Question1">Multiple inheritance means..</string>
+    <string name="Question2">HashSet internally uses?</string>
+    <string name="Question3">Which of those allows duplicate elements?</string>
+    <string name="Question4">which data type we can (cast)it to integar?</string>
+    <string name="Question5">Which is reserved words in Java?</string>
+    <string name="Question6">Result   (4*(2+5)*2) is: </string>
+    <string name="Question7">Result   ((4*2)+5*2) is: </string>
+
+
+    <!--answer question1//a-->
+    <string name="Question1_Option1">one class inheriting from more super classes</string>
+    <string name="Question1_Option2">more classes inheriting from one super class</string>
+    <string name="Question1_Option3">None of the above</string>
+
+    <!--answer question2//a-->
+    <string name="Question2_Option1">HashMap</string>
+    <string name="Question2_Option2">LinkedHashMap</string>
+    <string name="Question2_Option3">TreeMap</string>
+
+    <!--answer question3//b-->
+    <string name="Question3_Option1">Set</string>
+    <string name="Question3_Option2">List</string>
+    <string name="Question3_Option3">None of the above</string>
+
+    <!--answer question4//1/3-->
+    <string name="Question4_Option1">double</string>
+    <string name="Question4_Option2">String</string>
+    <string name="Question4_Option3">float</string>
+    <string name="Question4_Option4">class</string>
+
+    <!--answer question5//1/2-->
+    <string name="Question5_Option1">boolean</string>
+    <string name="Question5_Option2">interface</string>
+    <string name="Question5_Option3">html</string>
+    <string name="Question5_Option4">None of the above</string>
+
+
+    <string name="Hint">Enter Your Answer</string>
+    <!--button-->
+    <string name="button_result">RESULT</string>
+</resources>
